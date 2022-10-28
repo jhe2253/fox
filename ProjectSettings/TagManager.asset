@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Red
+  - Obstacle
+  - Green
+  - Enemies
+  - Cherry
+  - Purple
+  - Gem
+  - Blue
+  - White
   layers:
   - Default
   - TransparentFX
